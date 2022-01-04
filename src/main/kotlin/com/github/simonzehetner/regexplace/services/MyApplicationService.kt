@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.simonzehetner.regexplace.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.simonzehetner.regexplace.MyBundle
 
 class MyApplicationService {
 
